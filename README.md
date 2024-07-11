@@ -23,7 +23,9 @@ Technologies Used
 - Tailwind
 
 Usage
+
 Feel free to explore the homepage UI and use it as a template for creating a full-fledged clothing store website. You can modify the HTML, CSS, and JavaScript files to suit your needs.
 
 Contributing
+
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
